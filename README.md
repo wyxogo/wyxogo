@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aiyasin
+- 👋 Hi, I’m @wyxogo
 - 👀 I’m interested in DL&AI
-- 🌱 I’m currently learning lane-detection
+- 🌱 I’m currently working on lane-detection
 - 💞️ I’m looking to collaborate on CV
 - 📫 Reach me wyxogo@gmail.com
 

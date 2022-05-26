@@ -2,7 +2,7 @@
 - 👀 I’m interested in DL&AI
 - 🌱 I’m currently learning lane-detection
 - 💞️ I’m looking to collaborate on CV
-- 📫 Reach me wmoonxin@gmail.com
+- 📫 Reach me wyxogo@gmail.com
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

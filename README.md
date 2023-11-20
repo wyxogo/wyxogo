@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wyxogo
 - 👀 I’m interested in DL&AI
-- 🌱 I’m currently working on lane-detection
-- 💞️ I’m looking to collaborate on CV
+- 🌱 I’m currently working on MM&DM
 - 📫 Reach me wyxogo@gmail.com
 
 <!---
